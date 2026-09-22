@@ -1514,7 +1514,7 @@ html {
 .about-title h2 {
   margin: 0;
   font-family: "Manrope", sans-serif;
-  font-size: clamp(60px, 8vw, 130px);
+  font-size: clamp(60px, 8vw, 110px);
   line-height: .85;
   letter-spacing: -.08em;
 }
@@ -1752,7 +1752,7 @@ html {
 .contact-title h2 {
   margin: 0;
   font-family: "Manrope", sans-serif;
-  font-size: clamp(80px, 15vw, 220px);
+  font-size: clamp(80px, 15vw, 200px);
   line-height: .8;
   letter-spacing: -.1em;
 }

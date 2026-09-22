@@ -711,11 +711,11 @@ useEffect(() => {
           <div className="about-grid">
             <div className="about-title">
               <h2>
-                Curious
+                Entre créativité
                 <br />
-                by nature.
+                et logique.
               </h2>
-              <span className="about-big-number">04</span>
+              
             </div>
 
             <div className="about-content">
@@ -780,9 +780,9 @@ useEffect(() => {
 
           <div className="process-title">
             <h2>
-              How I turn
+              Du concept
               <br />
-              <span>ideas into products.</span>
+              <span>à l'expérience.</span>
             </h2>
           </div>
 
