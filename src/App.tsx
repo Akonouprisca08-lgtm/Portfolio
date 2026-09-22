@@ -711,7 +711,7 @@ useEffect(() => {
           <div className="about-grid">
             <div className="about-title">
               <h2>
-                Entre créativité
+                Entre creativite
                 <br />
                 et logique.
               </h2>
@@ -782,7 +782,7 @@ useEffect(() => {
             <h2>
               Du concept
               <br />
-              <span>à l'expérience.</span>
+              <span>a l'experience.</span>
             </h2>
           </div>
 
